@@ -2,13 +2,11 @@
 
 #### Em programação, uma constante armazena um valor fixo, que NÃO
 
-#### mudará com o tempo de execução do programa. Ou seja, o valor será
-definido uma única vez e jamais será alterado durante a execução da
+#### mudará com o tempo de execução do programa. Ou seja, o valor será definido uma única vez e jamais será alterado durante a execução da
 aplicação;
 Uma constante deve ser utilizada quando uma informação NÃO tem
 qualquer possibilidade de alteração, ou variação, no decorrer da execução
 do algoritmo (programa).
-
 #### Variavel
 
 #### É uma entidade destinada a guardar uma informação;
