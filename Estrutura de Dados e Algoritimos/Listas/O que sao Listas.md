@@ -1,4 +1,5 @@
-# O que é uma lista?
+### O que é uma lista?
+
 #### As listas são estruturas de dados muito utilizadas. Elas armazenam os dados em um formato de lista (dado o nome).
 
 #### Basicamente, uma lista é, na verdade, um conjunto de estruturas chamadas “nós”. Um nó é uma estrutura que armazena a informação a ser gerenciada por uma lista.
