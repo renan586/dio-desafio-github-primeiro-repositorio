@@ -1,0 +1,3 @@
+A programação de computadores trata da escrita e interpretação de códigos que serão decodificados por um computador. Estes códigos seguem lógicas léxicas, sintáticas e semânticas entendidas por uma máquina. Este conjunto de regras é o que chamamos de Lógica de Programação, que é realizada nas chamadas Linguagens de Programação, que por sua vez são a alma de tudo o que vemos rodando dentro de um computador.
+
+Aprender a Lógica de Programação significa entender este conjunto de regras lógicas necessárias para se programar um computador e é o primeiro passo de qualquer desenvolvedor de software.

@@ -1,0 +1,5 @@
+Em ciência da computação, um grafo é um tipo abstrato de dados que destina-se a implementar os conceitos matemáticos de grafo não-direcionado e gráfico direcionado, especificamente no campo da teoria dos grafos.
+
+Um grafo consiste de um conjunto finito (e, possivelmente, mutável) de vértices ou nós ou pontos, com um conjunto de pares não ordenados destes vértices para um grafo não-direcionado, ou um conjunto de pares ordenados para um grafo direcionado. Esses pares são conhecidos como arestas, arcos ou linhas para um grafo não-direcionado e como setas, arestas dirigidas, arcos dirigidos ou  linhas dirigidas para um grafo direcionado. Os vértices podem ser parte do grafo, ou podem ser entidades externas representadas por índices inteiros ou referências.
+
+Uma estrutura de dados do tipo grafo pode também associar a cada aresta algum peso, como um rótulo simbólico ou um atributo numérico (custo, capacidade, comprimento, etc.).
