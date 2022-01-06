@@ -6,7 +6,7 @@
 
 #### Só podemos guardar dentro de um Vetor 1 tipo de dado, no caso do exemplo, usamos o tipo Caracter.
 
-#### Matrizes
+## Matrizes
 
 #### Assim como Vetores são agrupamentos de variáveis, “Matrizes são agrupamentos de vetores”. Possuindo a forma de tabela e acessando seus valores por meio de múltiplos índices.
 
