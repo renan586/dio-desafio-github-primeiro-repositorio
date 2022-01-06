@@ -1,0 +1,5 @@
+#### Um algoritmo é formalmente uma seqüência finita de passos que levam a execução de uma tarefa. 
+#### Podemos pensar em algoritmo como uma receita, uma seqüência de instruções que dão cabo de uma meta específica. Estas tarefas não podem ser redundantes nem subjetivas na sua definição, devem ser claras e precisas.
+
+#### Como exemplos de algoritmos podemos citar os algoritmos das operações básicas (adição,multiplicação, divisão e subtração) de números reais decimais. Outros exemplos seriam os
+manuais de aparelhos eletrônicos, como um videocassete, que explicam passo-a-passo como por exemplo, gravar um evento. 

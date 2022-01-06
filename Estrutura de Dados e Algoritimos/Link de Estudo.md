@@ -1,0 +1,1 @@
+#### https://pt.wikipedia.org/wiki/Estrutura_de_dados
