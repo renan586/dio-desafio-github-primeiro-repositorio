@@ -1,4 +1,4 @@
-### O que é uma lista?
+## O que é uma lista?
 
 #### As listas são estruturas de dados muito utilizadas. Elas armazenam os dados em um formato de lista (dado o nome).
 
